@@ -1,3 +1,3 @@
 This is a file, i will use to create a merge conflict on second line of this file.
-This is the line on which I will get the merge conflict.. I want that my code should be used.
+This is the line on which I will get the merge conflict.. I want that my code should be used..feature1
 Master Branch code would be used...
